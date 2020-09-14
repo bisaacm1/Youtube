@@ -20,10 +20,10 @@
 
 
 ### Mobile Screenshot
-<div>
-   <img src="./.github/initial.gif" width="180">
-   <img src="./.github/search.gif" width="180">
-   <img src="./.github/landscape.jpeg" width="180">
+<div align="center">
+   <img src="./.github/initial.gif" width="180" style="right: 120px;">
+   <img src="./.github/search.gif" width="180"><br>
+   <img src="./.github/landscape.jpeg" width="365">
 </div>   
 
 ## :computer: 🚀 Technologies
